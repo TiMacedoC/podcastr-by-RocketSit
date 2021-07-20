@@ -1,7 +1,5 @@
 # podcastr-by-RocketSit
 
-Projeto em reactJS
+### Rodando [aqui](ttps://podcastr-by-rocket-sit-40xdpk0vi-timacedoc.vercel.app/)
 
-Rodando: https://podcastr-by-rocket-sit-40xdpk0vi-timacedoc.vercel.app/
-
-Projeto Feito baseado na semana NLW do RocktSeat
+Projeto Feito baseado na semana NLW do RocktSeat, usando frameorks de javascript como o React
